@@ -7,6 +7,7 @@ Requirements of WCAG 2.0 [1], WCAG 2.1 [2] and EN 301 549 V2.1.2 [3]
 
 EN 301 549|WCAG 2.0|WCAG 2.1|Requirements
 ----------|--------|--------|------------
+38        | 61     | 78     |   
 &nbsp; |&nbsp; |&nbsp; | **1. Perceivable**
 &nbsp; |&nbsp; |&nbsp; | **1.1 Text Alternatives**
 **yes**|**yes**|**yes**|1.1.1 Non-text Content
