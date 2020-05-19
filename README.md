@@ -3,9 +3,12 @@ Requirements of WCAG 2.0 [1], WCAG 2.1 [2] and EN 301 549 V2.1.2 [3]
 
 * [1] [https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0)
 * [2] [https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1)
-* [3] [https://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf)
+* [3] OLD Version 1.1.2 [https://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf)
+* [4] Current Version 2.1.2 [https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf)
 
-EN 301 549|WCAG 2.0|WCAG 2.1|Requirements
+**Beware: This table is outdated as it references to old version of EU standard! It should reference [4] instead.**
+
+EN 301 549 (V1.1.2)|WCAG 2.0|WCAG 2.1|Requirements
 ----------|--------|--------|------------
 38        | 61     | 78     |   
 &nbsp; |&nbsp; |&nbsp; | **1. Perceivable**
