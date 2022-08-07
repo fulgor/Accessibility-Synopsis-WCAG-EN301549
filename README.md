@@ -65,9 +65,9 @@ Level |Since |Requirement
 **A**|**2.0**|2.4.2 Page Titled
 **A**|**2.0**|2.4.3 Focus Order
 **A**|**2.0**|2.4.4 Link Purpose (In Context)
-**Aa**|**2.0**|2.4.5 Multiple Ways
+**AA**|**2.0**|2.4.5 Multiple Ways
 **AA**|**2.0**|2.4.6 Headings and Labels
-**Aa**|**2.0**|2.4.7 Focus Visible
+**AA**|**2.0**|2.4.7 Focus Visible
 **AAA**|**2.0**|2.4.8 Location
 **AAA**|**2.0**|2.4.9 Link Purpose (Link Only)
 **AAA**|**2.0**|2.4.10 Section Headings
@@ -75,7 +75,7 @@ Level |Since |Requirement
 **A**|**2.1**|2.5.1 Pointer Gestures
 **A**|**2.1**|2.5.2 Pointer Cancellation
 **A**|**2.1**|2.5.3 Label in Name
-**A*|**2.1**|2.5.4 Motion Actuation
+**A**|**2.1**|2.5.4 Motion Actuation
 **AAA**|**2.1**|2.5.5 Target Size
 **AAA**|**2.1**|2.5.6 Concurrent Input Mechanisms
 &nbsp; |&nbsp; | **3. Understandable**
